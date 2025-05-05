@@ -33,7 +33,7 @@ Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta
 Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Teknologiat
-Alustana toimi GitHub sekä Visual Studio Code koodin kirjoittamisessa. VS Codessa käytimme pyhon -ohjelmointikieltä koodin luomiseen.
+Alustana toimi GitHub sekä Visual Studio Code koodin kirjoittamisessa. VS Codessa käytimme Python -ohjelmointikieltä koodin luomiseen.
 
 ## Suunnittelu
 Kuvaile, miten lähestyit ongelmaa tai sovelluksen suunnittelua. Lisää tähän vuokaavio sovelluksen toiminnasta.
@@ -41,12 +41,12 @@ Kuvaile, miten lähestyit ongelmaa tai sovelluksen suunnittelua. Lisää tähän
 Saimme pelin idean tekoälyltä.
 
 ## Aikataulu
-[Projektin nimi] on vielä työn alla. `Versio 2` julkaistaan pian.
+Projektin alustava aikataulu:
 
-5.5. Projektin hahmottaminen ja idean keksiminen  
-.  
-.  
-.  
+5.5. Projektin hahmottaminen, idean keksiminen ja README -tiedoston kirjoittaminen 
+vko 19 - koodin kirjoittaminen  
+vko 20 - koodin kirjoittaminen, tilannekatsaus  
+vko 21 - koodin viimeistely  
 26.5. Projektin palautus
 
 ## Lähteet ja tekijät  
