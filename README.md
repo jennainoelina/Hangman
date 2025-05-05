@@ -43,10 +43,10 @@ Saimme pelin idean tekoälyltä.
 ## Aikataulu
 [Projektin nimi] on vielä työn alla. `Versio 2` julkaistaan pian.
 
-5.5. Projektin hahmottaminen ja idean keksiminen(br)
-.
-.
-.
+5.5. Projektin hahmottaminen ja idean keksiminen  
+.  
+.  
+.  
 26.5. Projektin palautus
 
 ## Lähteet ja tekijät  
