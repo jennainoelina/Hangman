@@ -43,7 +43,7 @@ Saimme pelin idean tekoälyltä.
 ## Aikataulu
 [Projektin nimi] on vielä työn alla. `Versio 2` julkaistaan pian.
 
-5.5. Projektin hahmottaminen ja idean keksiminen
+5.5. Projektin hahmottaminen ja idean keksiminen(br)
 .
 .
 .
