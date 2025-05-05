@@ -8,6 +8,18 @@ www.plaaplaaplaa.com
 
 ### Työmäärän jakautuminen
 Miten työt jaetaan? Kuka teki mitä?
+Jenna Vahviala:
+- README -tiedoston luominen
+- Pelilogiikka
+- Sanan arvaaminen
+
+Tinja Pennanen:
+- Vuokaavion luominen ja liittäminen
+- Pelitilanteen näyttäminen
+- ASCII-hirsipuu
+
+Yhdessä:
+- main() -funktio (yhdistys)
 
 ## Sisällysluettelo:
 
@@ -50,8 +62,6 @@ vko 21 - koodin viimeistely
 
 ## Lähteet ja tekijät  
 Lista osallistujista ja lähteistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja ja miten ne auttoivat sinua.
-- [John Doe](johndoe.com)  
-- [Beginners guide to BEM](link-goes-here.com)
 
 - Jenna Vahviala
 - Tinja Pennanen
