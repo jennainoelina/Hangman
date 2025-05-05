@@ -11,17 +11,20 @@ Miten työt jaetaan? Kuka teki mitä?
 
 ## Sisällysluettelo:
 
-- [Tietoa sovelluksesta](#tietoa-sovelluksesta)  
+- [Tietoa pelistä](#tietoa-pelistä)  
 - [Kuvakaappaukset](#kuvakaappaukset)  
 - [Teknologiat](#teknologiat)  
 - [Asennus](#asennus)  
 - [Suunnitelma / Vuokaavio](#suunnittelu)  
-- [Tila](#tila)  
+- [Aikataulu](#aikataulu)  
 - [Lähteet ja tekijät](#lähteet-ja-tekijät)  
 - [Lisenssi](#lisenssi)  
 
-## Tietoa sovelluksesta  
-[Projektin nimi] on sovellus, joka...
+## Tietoa pelistä 
+Hangman on klassinen sana-arvuuttelupeli, jossa peli arpoo "salasanan", joka pelaajan tulee arvata. Pelissä on varaa kymmenelle virheelle, ja virheelliset arvausyritykset johtavat hirsipuun piirtämiseen. 
+
+Pelissä pelaaja arvaa kirjaimia vuorotellen, jos kirjain on sanassa, kirjain merkitään sanassa oikealle kohdalleen. Jos arvattu kirjain ei ole sanassa, siitä tulee virhe, jonka seurauksena hirsipuu rupeaa valmistumaan. Pelin voittaa, jo
+ap 
 
 ## Kuvakaappaukset  
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
@@ -29,20 +32,33 @@ Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta
 
 Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
-## Teknologiat  
-Kuvaile, mitä teknologioita käytettiin ja mikä rooli niillä oli projektissa.  
-Käytin seuraavia teknologioita: `html`, `css`, ...
+## Teknologiat
+Alustana toimi GitHub sekä Visual Studio Code koodin kirjoittamisessa. VS Codessa käytimme pyhon -ohjelmointikieltä koodin luomiseen.
 
 ## Suunnittelu
 Kuvaile, miten lähestyit ongelmaa tai sovelluksen suunnittelua. Lisää tähän vuokaavio sovelluksen toiminnasta.
 
-## Tila  
+Saimme pelin idean tekoälyltä.
+
+## Aikataulu
 [Projektin nimi] on vielä työn alla. `Versio 2` julkaistaan pian.
+
+5.5. Projektin hahmottaminen ja idean keksiminen
+.
+.
+.
+26.5. Projektin palautus
 
 ## Lähteet ja tekijät  
 Lista osallistujista ja lähteistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja ja miten ne auttoivat sinua.
 - [John Doe](johndoe.com)  
 - [Beginners guide to BEM](link-goes-here.com)
+
+- Jenna Vahviala
+- Tinja Pennanen
+- ChatGPT
+- MOOC teoriat
+- Mika Stenberg teoriat tunnilla
 
 ## Lisenssi  
 Valitse projektiisi sopiva lisenssi tämän [ohjeen](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) avulla.
