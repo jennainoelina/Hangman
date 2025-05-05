@@ -13,8 +13,7 @@ Miten työt jaetaan? Kuka teki mitä?
 
 - [Tietoa pelistä](#tietoa-pelistä)  
 - [Kuvakaappaukset](#kuvakaappaukset)  
-- [Teknologiat](#teknologiat)  
-- [Asennus](#asennus)  
+- [Teknologiat](#teknologiat)    
 - [Suunnitelma / Vuokaavio](#suunnittelu)  
 - [Aikataulu](#aikataulu)  
 - [Lähteet ja tekijät](#lähteet-ja-tekijät)  
@@ -43,11 +42,11 @@ Saimme pelin idean tekoälyltä.
 ## Aikataulu
 Projektin alustava aikataulu:
 
-5.5. Projektin hahmottaminen, idean keksiminen ja README -tiedoston kirjoittaminen  
+5.5. - Projektin hahmottaminen, idean keksiminen ja README -tiedoston kirjoittaminen  
 vko 19 - koodin kirjoittaminen  
 vko 20 - koodin kirjoittaminen, tilannekatsaus  
 vko 21 - koodin viimeistely  
-26.5. Projektin palautus
+26.5. - Projektin palautus
 
 ## Lähteet ja tekijät  
 Lista osallistujista ja lähteistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja ja miten ne auttoivat sinua.
