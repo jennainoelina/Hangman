@@ -7,7 +7,7 @@ Pelin demoon pääsee alla olevasta linkistä:
 www.plaaplaaplaa.com
 
 ### Työmäärän jakautuminen
-Miten työt jaetaan? Kuka teki mitä?
+Miten työt jaetaan? Kuka teki mitä?  
 Jenna Vahviala:
 - README -tiedoston luominen
 - Pelilogiikka
