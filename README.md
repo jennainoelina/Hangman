@@ -43,7 +43,7 @@ Saimme pelin idean tekoälyltä.
 ## Aikataulu
 Projektin alustava aikataulu:
 
-5.5. Projektin hahmottaminen, idean keksiminen ja README -tiedoston kirjoittaminen 
+5.5. Projektin hahmottaminen, idean keksiminen ja README -tiedoston kirjoittaminen  
 vko 19 - koodin kirjoittaminen  
 vko 20 - koodin kirjoittaminen, tilannekatsaus  
 vko 21 - koodin viimeistely  
