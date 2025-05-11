@@ -59,6 +59,11 @@ while yritykset > 0:
     # Pyydetään käyttäjältä kirjain
     kysymys = input("Arvaa kirjain: ").lower()
 
+    # Tarkistetaan, että on vain yksi kirjain
+    if len(kysymys) != 1 or not kysymys.isalpha():
+        print("Anna vain yksi kirjain kerrallaan.")
+        continue
+
     # Tarkistetaan, onko kirjain jo arvattu
     if kysymys in arvatut_kirjaimet:
         print("Olet jo arvannut kirjaimen", kysymys)

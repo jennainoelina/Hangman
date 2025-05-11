@@ -7,7 +7,8 @@ Pelin demoon pääsee alla olevasta linkistä:
 www.plaaplaaplaa.com
 
 ### Työmäärän jakautuminen
-Miten työt jaetaan? Kuka teki mitä?  
+Työnjako oli seuraava:
+
 Jenna Vahviala:
 - README -tiedoston luominen
 - Pelilogiikka
@@ -49,6 +50,31 @@ Alustana toimi GitHub sekä Visual Studio Code koodin kirjoittamisessa. VS Codes
 Kuvaile, miten lähestyit ongelmaa tai sovelluksen suunnittelua. Lisää tähän vuokaavio sovelluksen toiminnasta.
 
 Halusimme koodata jotain kivaa ja interaktiivista, jossa pelaaja saa itse olla koko ajan mukana. Tekoäly suositteli Hangman -peliä.
+
+1. Pelin peruslogiikan ymmärtäminen
+- sääntöjen määrittäminen
+- logiikan osat: sanan valinta (satunnaisvalinta), pelaajan syötteet (arvaukset) ja yritykset sekä arvatut kirjaimet
+
+2. Käyttäjän syötteen käsittely
+- "käyttöliittymän" suunnittelu
+- pelin aloitus: pelataanko vai ei
+- syötteen tarkistus: yksi kirjain kerrallaan
+
+3. Pelin kulun logiikka
+- sanavalinta satunnaisesti
+- Arvausten tarkistus
+- Pelilogiikka: arvauksia verrataan sanaan
+
+4. Pelin visuaalisuus ja käyttäjäkokemus
+- Hirsipuu-grafiikka: hirsipuun kuvat eri tiedostossa
+- Viestit: oikein/väärin, virheelliset syötteet
+
+5. Virheenkäsittely
+- Useita tarkistuksia
+- Selkeitä (virhe-)ilmoituksia
+
+6. Pelin lopetus
+- Selkeä lopetus: voitto vai häviö
 
 ## Aikataulu
 Projektin alustava aikataulu:
