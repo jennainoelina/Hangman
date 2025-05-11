@@ -32,10 +32,9 @@ Yhdessä:
 - [Lisenssi](#lisenssi)  
 
 ## Tietoa pelistä 
-Hangman on klassinen sana-arvuuttelupeli, jossa peli arpoo "salasanan", joka pelaajan tulee arvata. Pelissä on varaa kymmenelle virheelle, ja virheelliset arvausyritykset johtavat hirsipuun piirtämiseen. 
+Hangman on klassinen sana-arvuuttelupeli, jossa peli arpoo "salasanan", joka pelaajan tulee arvata. Pelissä on varaa kuudelle virheelle ja virheelliset arvausyritykset johtavat hirsipuun piirtämiseen. 
 
-Pelissä pelaaja arvaa kirjaimia vuorotellen, jos kirjain on sanassa, kirjain merkitään sanassa oikealle kohdalleen. Jos arvattu kirjain ei ole sanassa, siitä tulee virhe, jonka seurauksena hirsipuu rupeaa valmistumaan. Pelin voittaa, jo
-ap 
+Pelissä pelaaja arvaa kirjaimia yksitellen; jos kirjain on sanassa, kirjain merkitään sanassa oikealle kohdalleen. Jos arvattu kirjain ei ole sanassa, siitä tulee virhe, jonka seurauksena hirsipuu rupeaa valmistumaan. Pelin voittaa, jos arvaa kaikki kirjaimet oikein muodostaen salasana. Jos yritykset pääsevät loppumaan ja hirsipuu on piirretty loppuun, pelaaja häviää.
 
 ## Kuvakaappaukset  
 Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
@@ -44,12 +43,12 @@ Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta
 Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
 
 ## Teknologiat
-Alustana toimi GitHub sekä Visual Studio Code koodin kirjoittamisessa. VS Codessa käytimme Python -ohjelmointikieltä koodin luomiseen.
+Alustana toimi GitHub sekä Visual Studio Code koodin kirjoittamisessa. VS Codessa käytimme Python -ohjelmointikieltä koodin luomiseen. Koodin kirjoittamisessa oli apuna ChatGPT.
 
 ## Suunnittelu
 Kuvaile, miten lähestyit ongelmaa tai sovelluksen suunnittelua. Lisää tähän vuokaavio sovelluksen toiminnasta.
 
-Saimme pelin idean tekoälyltä.
+Halusimme koodata jotain kivaa ja interaktiivista, jossa pelaaja saa itse olla koko ajan mukana. Tekoäly suositteli Hangman -peliä.
 
 ## Aikataulu
 Projektin alustava aikataulu:
