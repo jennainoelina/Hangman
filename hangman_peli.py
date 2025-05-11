@@ -88,5 +88,5 @@ while True:
     # Kysytään pelataanko uudestaan
     uudestaan = input("Pelataanko uudestaan? (kyllä/ei): ").lower()
     if uudestaan != "kyllä":
-        print("Kiitos pelaamisesta! Nähdään taas.")
+        print("Kiva kun pelasit!")
         break  # Poistutaan pelisilmukasta
