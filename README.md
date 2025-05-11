@@ -76,6 +76,9 @@ Halusimme koodata jotain kivaa ja interaktiivista, jossa pelaaja saa itse olla k
 6. Pelin lopetus
 - selkeä lopetus: voitto vai häviö
 
+7. Uudelleen pelaaminen
+- kysymys uudestaan pelaamisesta
+
 ## Aikataulu
 Projektin alustava aikataulu:
 
