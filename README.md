@@ -63,18 +63,18 @@ Halusimme koodata jotain kivaa ja interaktiivista, jossa pelaaja saa itse olla k
 3. Pelin kulun logiikka
 - sanavalinta satunnaisesti
 - Arvausten tarkistus
-- Pelilogiikka: arvauksia verrataan sanaan
+- pelilogiikka: arvauksia verrataan sanaan
 
 4. Pelin visuaalisuus ja käyttäjäkokemus
-- Hirsipuu-grafiikka: hirsipuun kuvat eri tiedostossa
-- Viestit: oikein/väärin, virheelliset syötteet
+- hirsipuu-grafiikka: hirsipuun kuvat eri tiedostossa
+- viestit: oikein/väärin, virheelliset syötteet
 
 5. Virheenkäsittely
-- Useita tarkistuksia
-- Selkeitä (virhe-)ilmoituksia
+- useita tarkistuksia
+- selkeitä (virhe-)ilmoituksia
 
 6. Pelin lopetus
-- Selkeä lopetus: voitto vai häviö
+- selkeä lopetus: voitto vai häviö
 
 ## Aikataulu
 Projektin alustava aikataulu:
