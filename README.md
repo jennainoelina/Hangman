@@ -40,8 +40,8 @@ Pelissä pelaaja arvaa kirjaimia yksitellen; jos kirjain on sanassa, kirjain mer
 ## Kuvakaappaukset  
 Alla pari kuvaa toimivasta koodista.
 
-[koodikuva1](images/Screenshot1.png)
-[koodikuva2](images/Screenshot2.png)
+[koodikuva1](kuvat/Screenshot1.png)
+[koodikuva2](kuvat/Screenshot2.png)
 
 ## Teknologiat
 Alustana toimi GitHub sekä Visual Studio Code koodin kirjoittamisessa. VS Codessa käytimme Python -ohjelmointikieltä koodin luomiseen. Koodin kirjoittamisessa oli apuna ChatGPT.
