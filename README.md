@@ -26,13 +26,12 @@ Tinja Pennanen:
 - [Teknologiat](#teknologiat)    
 - [Suunnitelma / Vuokaavio](#suunnittelu)  
 - [Aikataulu](#aikataulu)  
-- [Lähteet ja tekijät](#lähteet-ja-tekijät)  
-- [Lisenssi](#lisenssi)  
+- [Lähteet ja tekijät](#lähteet-ja-tekijät)   
 
 ## Tietoa pelistä 
 Hangman on klassinen sana-arvuuttelupeli, jossa peli arpoo "salasanan", joka pelaajan tulee arvata. Pelissä on varaa kuudelle virheelle ja virheelliset arvausyritykset johtavat hirsipuun piirtämiseen. 
 
-Pelissä pelaaja arvaa kirjaimia yksitellen; jos kirjain on sanassa, kirjain merkitään sanassa oikealle kohdalleen. Jos arvattu kirjain ei ole sanassa, siitä tulee virhe, jonka seurauksena hirsipuu rupeaa valmistumaan. Pelin voittaa, jos arvaa kaikki kirjaimet oikein muodostaen salasana. Jos yritykset pääsevät loppumaan ja hirsipuu on piirretty loppuun, pelaaja häviää.
+Pelissä pelaaja arvaa kirjaimia yksitellen; jos kirjain on sanassa, kirjain merkitään sanassa oikealle kohdalleen. Jos arvattu kirjain ei ole sanassa, siitä tulee virhe, jonka seurauksena hirsipuu rupeaa valmistumaan. Pelin voittaa, jos arvaa kaikki kirjaimet oikein muodostaen salasanan. Jos yritykset pääsevät loppumaan ja hirsipuu on piirretty loppuun, pelaaja häviää.
 
 ## Kuvakaappaukset  
 Alla pari kuvaa toimivasta koodista.
@@ -44,8 +43,6 @@ Alla pari kuvaa toimivasta koodista.
 Alustana toimi GitHub sekä Visual Studio Code koodin kirjoittamisessa. VS Codessa käytimme Python -ohjelmointikieltä koodin luomiseen. Koodin kirjoittamisessa oli apuna ChatGPT.
 
 ## Suunnittelu
-Kuvaile, miten lähestyit ongelmaa tai sovelluksen suunnittelua. Lisää tähän vuokaavio sovelluksen toiminnasta.
-
 Tässä kuva meidän Vuokaaviosta:
 [Vuokaavio](kuvat/Vuokaavio.png)
 
@@ -89,15 +86,10 @@ vko 21 - koodin viimeistely
 26.5. - Projektin palautus
 
 ## Lähteet ja tekijät  
-Lista osallistujista ja lähteistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja ja miten ne auttoivat sinua.
+Lista osallistujista ja lähteistä:
 
 - Jenna Vahviala
 - Tinja Pennanen
 - ChatGPT
 - MOOC teoriat
 - Mika Stenberg teoriat tunnilla
-
-## Lisenssi  
-Valitse projektiisi sopiva lisenssi tämän [ohjeen](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) avulla.
-
-Esimerkki: MIT-lisenssi © [tekijä](author.com)
