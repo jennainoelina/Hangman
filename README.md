@@ -46,6 +46,9 @@ Alustana toimi GitHub sekä Visual Studio Code koodin kirjoittamisessa. VS Codes
 ## Suunnittelu
 Kuvaile, miten lähestyit ongelmaa tai sovelluksen suunnittelua. Lisää tähän vuokaavio sovelluksen toiminnasta.
 
+Tässä kuva meidän Vuokaaviosta:
+[Vuokaavio].(kuvat/Näyttökuva(40).png)
+
 Halusimme koodata jotain kivaa ja interaktiivista, jossa pelaaja saa itse olla koko ajan mukana. Tekoäly suositteli Hangman -peliä.
 
 1. Pelin peruslogiikan ymmärtäminen
