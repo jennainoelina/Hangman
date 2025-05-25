@@ -19,9 +19,6 @@ Tinja Pennanen:
 - Pelitilanteen näyttäminen
 - ASCII-hirsipuu
 
-Yhdessä:
-- main() -funktio (yhdistys)
-
 ## Sisällysluettelo:
 
 - [Tietoa pelistä](#tietoa-pelistä)  
