@@ -3,8 +3,8 @@ Projektina Hangman -peli
 Jenna Vahviala ja Tinja Pennanen
 
 ### Demo-linkki
-Pelin demoon pääsee alla olevasta linkistä:
-www.plaaplaaplaa.com
+Pelin demoon pääsee tästä linkistä:
+[videot](https://fotovahviala.kuvat.fi/i/9rZXJYF7QtGg3V5dWEUDHe46RkhbPNv8)
 
 ### Työmäärän jakautuminen
 Työnjako oli seuraava:
