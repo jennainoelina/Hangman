@@ -38,10 +38,10 @@ Hangman on klassinen sana-arvuuttelupeli, jossa peli arpoo "salasanan", joka pel
 Pelissä pelaaja arvaa kirjaimia yksitellen; jos kirjain on sanassa, kirjain merkitään sanassa oikealle kohdalleen. Jos arvattu kirjain ei ole sanassa, siitä tulee virhe, jonka seurauksena hirsipuu rupeaa valmistumaan. Pelin voittaa, jos arvaa kaikki kirjaimet oikein muodostaen salasana. Jos yritykset pääsevät loppumaan ja hirsipuu on piirretty loppuun, pelaaja häviää.
 
 ## Kuvakaappaukset  
-Lisää tähän vähintään yksi kuvakaappaus toimivasta sovelluksesta  
-`![Kirjoitus](https://unsplash.com/photos/VBPzRgd7gfc)`
+Alla pari kuvaa toimivasta koodista.
 
-Kuva: [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+images/Screenshot1.png
+images/Screenshot2.png
 
 ## Teknologiat
 Alustana toimi GitHub sekä Visual Studio Code koodin kirjoittamisessa. VS Codessa käytimme Python -ohjelmointikieltä koodin luomiseen. Koodin kirjoittamisessa oli apuna ChatGPT.
