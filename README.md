@@ -44,7 +44,7 @@ Alustana toimi GitHub sekä Visual Studio Code koodin kirjoittamisessa. VS Codes
 
 ## Suunnittelu
 Tässä kuva meidän Vuokaaviosta:
-[Vuokaavio](kuvat/Vuokaavio.png)
+[Vuokaavio](kuvat/Vuokaavio1.png)
 
 Halusimme koodata jotain kivaa ja interaktiivista, jossa pelaaja saa itse olla koko ajan mukana. Tekoäly suositteli Hangman -peliä.
 
